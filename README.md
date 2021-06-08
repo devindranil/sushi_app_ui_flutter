@@ -1,10 +1,18 @@
-# flutter_sushi_app
+# flutter_sushi_app_ui
 
-a flutetr sushi application.
+ui developer - Indranil Chakraborty
+ui/ux design drible - https://dribbble.com/shots/15292440-Sushi-Restaurant-eCommerce-App
 
-## Getting Started
+## About This Project
 
-This project is a starting point for a Flutter application.
+This is the just a simple ecommerce application ui which is built with the help of flutter.
+in this app we have total two main screen and a one splash screen
+  1.splash screen
+  2.screen no 1(home screen)
+  3.screen no 2(details order screen)
+  
+## App Demo/screenshot
+
 
 A few resources to get you started if this is your first Flutter project:
 
