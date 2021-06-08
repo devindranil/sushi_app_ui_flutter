@@ -14,7 +14,7 @@ in this app we have total two main screen and a one splash screen
 ## App Demo/screenshot
 
 ## screen no 1 (home screen screenshot)
-
+<img src="screen shot1.jpg" width=200>
 
 ## drawer screenshot
 
