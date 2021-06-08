@@ -11,6 +11,9 @@ in this app we have total two main screen and a one splash screen
   2.screen no 1(home screen)
   3.screen no 2(details order screen)
   
+ ## for video tutorial
+ https://youtu.be/HMjVBQ-zYXg
+  
 ## App Demo/screenshot
 
 ## screen no 1 (home screen screenshot)                                 
@@ -21,9 +24,6 @@ in this app we have total two main screen and a one splash screen
 
 ## screen no 2 (details order screen screenshot)
 <img src="assets/final_app_screenshot/screen shot3.jpg" width=200>
-
-## if you want to see the app ui demo then check this video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMjVBQ-zYXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 A few resources to get you started if this is your first Flutter project:
