@@ -13,6 +13,8 @@ in this app we have total two main screen and a one splash screen
   
 ## App Demo/screenshot
 
+##screen no 1 (home screen screenshot)
+![Screenshot_2021-06-05-20-00-41-490_com example flutter_sushi_app](https://user-images.githubusercontent.com/72186033/121177584-358e8f80-c87b-11eb-95f5-36167786f95a.jpg)
 
 A few resources to get you started if this is your first Flutter project:
 
